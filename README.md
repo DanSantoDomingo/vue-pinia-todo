@@ -1,4 +1,4 @@
-# todo-app
+# todo-app using vue3 and pinia
 
 ## Project Setup
 
